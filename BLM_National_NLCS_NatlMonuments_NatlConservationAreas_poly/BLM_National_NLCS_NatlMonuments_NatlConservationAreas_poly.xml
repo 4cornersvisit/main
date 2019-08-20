@@ -1,0 +1,521 @@
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>U.S. Department of Interior, Bureau of Land Management (BLM)</origin>
+				<title>BLM National NLCS National Monuments, National Conservation Areas and Similar Designations Polygons</title>
+				<geoform>vector digital data</geoform>
+				<othercit>This is an aggregate national dataset. Source data were received from all or some of the BLM state offices of Alaska, Arizona, California, Colorado, Eastern States, Idaho, Montana, Nevada, New Mexico, Oregon/Washington, Utah, and Wyoming.</othercit>
+				<pubdate>20190614</pubdate>
+				<onlink>https://gis.blm.gov/EGISDownload/LayerPackages/BLM_National_NLCS_NatlMonuments_NatlConservationAreas_poly.zip</onlink>
+				<pubinfo><publish>Bureau of Land Management</publish></pubinfo></citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon feature class represents the spatial extent and boundaries of the BLM National Landscape Conservation System (NLCS) National Monuments, National Conservation Areas and Similar Designations.
+
+This dataset is a subset of the official national dataset, containing features and attributes intended for public release and has been optimized for online map service performance. The Implementation Guide represents the official national dataset from which this dataset was derived.</abstract>
+			<purpose>This feature class includes Cooperative Management and Protection Areas, Forest Reserves, National Conservation Areas, National Monuments, and Outstanding Natural Areas. Descriptions of each type of polygon found in this feature class can be found on Page 21 of the National Landscape Conservation System (NLCS) Implementation Guidelines (Version 1.1).
+
+The Bureau of Land Management's National Conservation Lands include 19 national monuments in nine western states. These national monuments encompass landscapes of tremendous beauty and diversity, ranging from rugged California coastline to vividly-hued desert canyons.  The Antiquities Act of 1906 grants the President authority to designate national monuments in order to protect “objects of historic or scientific interest.”
+
+National conservation areas (NCAs) and similarly designated lands are designated by Congress to conserve, protect, enhance, and manage public lands for the benefit and enjoyment of present and future generations. The Bureau of Land Management's National Conservation Lands include 16 NCAs and five similarly designated lands in ten states. These lands feature exceptional scientific, cultural, ecological, historical, and recreational values. They differ tremendously in landscape and size, varying from the coastal beauty of California's 18-acre Piedras Blancas Light Station Outstanding Natural Area to the rugged desert vistas of Nevada's 1.2 million acre Black Rock Desert-High Rock Canyon Emigrant Trails NCA.</purpose>
+			<supplinf>
+A published revision of the Department Manual’s Part 305: Departmental Science Effects, Chapter 3: Integrity of Scientific and Scholarly Activities (305 DM 3), effective December 16, 2014, is available online at http://elips.doi.gov/ELIPS/DocView.aspx?id=4056. Scholarly information considered in Departmental decision making must be robust, of the highest quality, and the result of as rigorous scientific and scholarly processes as can be achieved. Most importantly, it must be trustworthy. This policy helps us to achieve that standard (http://www.doi.gov/scientificintegrity/index.cfm).
+
+Each state office has a Data Steward or Contact Person for this data. Please contact the specific state office for additional information on their state dataset.</supplinf>
+		</descript>
+		<status>
+			<progress>In work</progress>
+			<update>As needed</update>
+		</status>
+		<keywords>
+			<place>
+				<placekt>BLM-STATE</placekt>
+				<placekey>Oregon</placekey>
+				<placekey>Montana</placekey>
+				<placekey>Utah</placekey>
+				<placekey>Nevada</placekey>
+				<placekey>Wyoming</placekey>
+				<placekey>Arizona</placekey>
+				<placekey>California</placekey>
+				<placekey>Idaho</placekey>
+				<placekey>Alaska</placekey>
+				<placekey>New Mexico</placekey>
+				<placekey>Colorado</placekey>
+			</place>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>boundaries</themekey>
+				<themekey>environment</themekey>
+				<themekey>location</themekey>
+				<themekey>planningCadastre</themekey>
+				<themekey>structure</themekey>
+			</theme>
+			<theme>
+				<themekey>Management</themekey>
+				<themekey>Management</themekey>
+				<themekey>Paleontology</themekey>
+				<themekey>Anthropology</themekey>
+				<themekey>Facility</themekey>
+				<themekey>Endangered</themekey>
+				<themekey>Recreation</themekey>
+				<themekey>Vegetation</themekey>
+				<themekey>Wildlife</themekey>
+				<themekey>Geology</themekey>
+				<themekt>BLM-THEME</themekt>
+				<themekey>Withdrawal</themekey>
+				<themekey>Geospatial</themekey>
+			</theme>
+			<theme>
+				<themekey>Bureau of Land Management</themekey>
+				<themekey>Public Lands</themekey>
+				<themekey>Management</themekey>
+				<themekey>BLM</themekey>
+				<themekey>Jurisdiction</themekey>
+				<themekey>Withdrawal</themekey>
+				<themekey>National Monuments</themekey>
+				<themekey>National Conservation Areas</themekey>
+				<themekt>None</themekt>
+			</theme>
+			<place>
+				<placekey>Western States</placekey>
+				<placekey>Eastern States</placekey>
+				<placekey>United States</placekey>
+				<placekt>None</placekt>
+			</place>
+		</keywords>
+		<accconst>None, these data are considered public domain</accconst>
+		<useconst>These data are provided by Bureau of Land Management (BLM) “as is” and might contain errors or omissions. The User assumes the entire risk associated with its use of these data and bears all responsibility in determining whether these data are fit for the User’s intended use. The information contained in these data is dynamic and may change over time. The data are not better than the sources from which they were derived, and both scale and accuracy may vary across the data set. These data might not have the accuracy, resolution, completeness, timeliness, or other characteristics appropriate for applications that potential users of the data may contemplate. The User is encouraged to carefully consider the content of the metadata file associated with these data. These data are neither legal documents nor land surveys, and must not be used as such. Official records may be referenced at most BLM offices. Please report any errors in the data to the BLM office from which it was obtained. The BLM should be cited as the data source in any products derived from these data. Any Users wishing to modify the data should describe the types of modifications they have performed. The User should not misrepresent the data, nor imply that changes made were approved or endorsed by BLM. This data may be updated by the BLM without notification.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntpos>National Data Steward</cntpos>
+				<cntaddr>
+					<addrtype>physical address</addrtype>
+					<address>20 M Street SE</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20003-3503</postal>
+					<country>United States</country>
+				</cntaddr>
+				<cntvoice>(202)912-7299</cntvoice>
+				<cntemail>icohen@blm.gov</cntemail>
+				<cntperp>
+					<cntper>National Data Steward</cntper>
+					<cntorg>Bureau of Land Management, WO410</cntorg>
+				</cntperp>
+				<cntfax>(202)245-0050</cntfax>
+			</cntinfo>
+		</ptcontac>
+		<spdom>
+			<bounding>
+				<westbc>-124.080830</westbc>
+				<eastbc>-105.427386</eastbc>
+				<northbc>48.071246</northbc>
+				<southbc>32.345997</southbc>
+			</bounding>
+		</spdom>
+		<datacred>BLM Admin State</datacred>
+		<native>Esri ArcGIS 10.1.1.3143</native>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>Publication Date</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<secinfo>
+			<secclass>Unclassified</secclass>
+		</secinfo>
+	</idinfo>
+	<dataqual>
+		<logic>This national dataset is an aggregation from multiple datasets provided by the BLM Administrative States, please contact the distributor for additional information on provenance, history, accuracy and quality of the data. The logical consistency of this dataset reflects that of the source datasets. Each source dataset is run through a series of tests to verify that the data complies with the format specified in the Data Standard. ERRORS AND INCONSISTENCIES MAY STILL BE PRESENT IN THE DATA. These tests were conducted using ESRI ArcMap 10.1. The tests consisted of checking coded values for attributes against a domain of accepted values, checking that alpha-numeric values followed a valid format, and checking that numeric values were greater than zero. For the geometry, the topology was validated; however overlaps and gaps can still be found.</logic>
+		<complete>This national dataset is an aggregation from multiple datasets provided by the BLM Administrative States, please contact the distributor for additional information on provenance, history, accuracy and quality of the data. The completeness of this dataset reflects that of the source datasets. As of 10/11/2016  Jupiter Inlet Lighthouse ONA is missing from the dataset.</complete>
+		<lineage>
+			<procstep>
+				<procdesc>Using the implementation guidelines, GIS staff at BLM field and state offices cross-walk and clean up their data to comply with the standardized national dataset. Then, the BLM field and/or state offices submit the data to the National Operations Center (NOC), where it is compiled to produce seamless national datasets.  This process of data replication to the National Operations Center is intended to occur on a monthly basis.</procdesc>
+				<proccont>
+					<cntinfo>
+						<cntpos>Spatial Data Coordinator</cntpos>
+						<cntaddr>
+							<addrtype>physical address</addrtype>
+							<address>Bldg. 50, Denver Federal Center</address>
+							<city>Denver</city>
+							<state>CO</state>
+							<postal>80225</postal>
+							<country>United States</country>
+						</cntaddr>
+						<cntvoice>(303)236-5445</cntvoice>
+						<cntperp>
+							<cntper>Spatial Data Coordinator</cntper>
+							<cntorg>BLM National Operations Center</cntorg>
+						</cntperp>
+						<cntfax>(303)236-3508</cntfax>
+						<cntemail>scrowe@blm.gov</cntemail>
+					</cntinfo>
+				</proccont>
+				<procdate>Unknown</procdate>
+				<srcused>H-1283-2 Data Administration and Management Handbook</srcused>
+			</procstep>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Department of Interior, Bureau of Land Management (BLM)</origin>
+						<pubdate>20141205</pubdate>
+						<title>H-1283-2 Data Administration and Management Handbook</title>
+						<edition>Release 1-1762</edition>
+					</citeinfo>
+				</srccite>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20141205</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccontr>This official BLM Data Management handbook contains information about how data is administered, managed, and tracked.  This handbook discusses how the BLM operates with regard to data development and design, quality, metadata, and business rules.  The information this resource contains also pertains to geospatial data.</srccontr>
+				<srccitea>H-1283-2 Data Administration and Management Handbook</srccitea>
+			</srcinfo>
+			<procstep>
+				<procdesc>Changes that are made to the NLCS National Monuments and National Condervation Areas data internally are reviewed for correctness before being applied externally. Correctness would include location and point attributes.</procdesc>
+				<procdate>20190614</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Spatial Data Coordinator</cntper>
+							<cntorg>BLM National Operations Center</cntorg>
+						</cntperp>
+						<cntpos>Spatial Data Coordinator</cntpos>
+						<cntaddr>
+							<addrtype>physical address</addrtype>
+							<address>Bldg. 50, Denver Federal Center</address>
+							<city>Denver</city>
+							<state>CO</state>
+							<postal>80225</postal>
+							<country>United States</country>
+						</cntaddr>
+						<cntvoice>(303)236-5445</cntvoice>
+						<cntfax>(303)236-3508</cntfax>
+						<cntemail>scrowe@blm.gov</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<srcinfo>
+				<typesrc>online</typesrc>
+				<srccitea>BLM National Landscape Conservation System (NLCS) Implementation Guidelines</srccitea>
+				<srccontr>This document describes the physical design for the national data standard for the geospatial dataset. It is intended as a guideline for implementation. States may
+extend and expand upon this guideline in order to meet their specific needs, provided that when the data is pushed up to the national level, it will meet the minimum
+requirements as set forth in the Data Standard</srccontr>
+				<srccite>
+					<citeinfo>
+						<origin>United States Department of the Interior Bureau of Land Management</origin>
+						<pubdate>20100820</pubdate>
+						<title>BLM National Landscape Conservation System (NLCS) Implementation Guidelines</title>
+						<onlink>https://gis.blm.gov/EGISDownload/Docs/NLCS_Implementation_Guidelines.pdf</onlink>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20100820</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+			</srcinfo>
+		</lineage>
+		<attracc>
+			<attraccr>This national dataset is an aggregation from multiple datasets provided by the BLM Administrative States, please contact the distributor for additional information on provenance, history, accuracy and quality of the data. The accuracy of attributes in this dataset reflects that of the source datasets. Attribute accuracy was tested by validating attribute coded values against accepted domain values, checking that alpha-numeric values followed a valid format, and checking that numeric values were greater than zero.</attraccr>
+		</attracc>
+		<posacc>
+			<horizpa>
+				<horizpar>This national dataset is an aggregation from multiple datasets provided by the BLM Administrative States, please contact the distributor for additional information on provenance, history, accuracy and quality of the data. The positional accuracy across this dataset varies according to the source.</horizpar>
+			</horizpa>
+		</posacc>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>GT-polygon composed of chains</sdtstype>
+				<ptvctcnt>52</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>nlcs_nm_nca_poly</enttypl>
+				<enttypd>BLM NLCS National Monuments, National Conservation Areas and Similar Designations Polygons</enttypd>
+				<enttypds>National Landscape Conservation System (NLCS) Implementation Guidelines</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>OBJECTID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>NLCS_ID</attrlabl>
+				<attrdef>The designed primary key that will uniquely identify a single occurrence of the entity.  The primary key for NLCS will be 10 digits.  The first four will be “NLCS” and the last six digits will be a sequential number.</attrdef>
+				<attrdefs>National Landscape Conservation System (NLCS) Implementation Guidelines</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>NLCS_NAME</attrlabl>
+				<attrdef>The official name of the NLCS area.  The name of a nationally significant designated area with scientific, cultural, educational, ecological and other values.</attrdef>
+				<attrdefs>National Landscape Conservation System (NLCS) Implementation Guidelines</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>CASEFILE_NO</attrlabl>
+				<attrdef>The serialized case number for each NLCS area.  The number that refers to the serialized case file number of the group of official documents that record the facts, or actions taken, on a specific application, such as an oil and gas lease, exchange, airport lease, easement acquisition, etc.  A case file sets aside the land as an NLCS, withdraws the area from certain uses, and registers this withdrawal on the Master Title Plats.</attrdef>
+				<attrdefs>National Landscape Conservation System (NLCS) Implementation Guidelines</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>NLCS_TYPE</attrlabl>
+				<attrdef>The name that indicates the type of the BLM's nationally significant designated areas.</attrdef>
+				<attrdefs>National Landscape Conservation System (NLCS) Implementation Guidelines</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>NLCS_DOM_NLCS_TYPE</codesetn>
+						<codesets>National Landscape Conservation System (NLCS) Implementation Guidelines</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ADMIN_ST</attrlabl>
+				<attrdef>An alphabetic abbreviation that represents each of the 50 states of the United States, the District of Columbia, the outlying areas of the United States, and associated areas.  FIPS PUB 5-2</attrdef>
+				<attrdefs>National Landscape Conservation System (NLCS) Implementation Guidelines</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>DOM_ADMIN_ST</codesetn>
+						<codesets>National Landscape Conservation System (NLCS) Implementation Guidelines</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape_Length</attrlabl>
+				<attrdef>Length of feature in internal units.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape_Area</attrlabl>
+				<attrdef>Area of feature in internal units squared.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>GlobalID</attrlabl>
+				<attrdef>Software generated value.  A field of type UUID (Universal Unique Identifier) in which values are automatically assigned by the geodatabase when a row is created.  This field is not editable and is automatically populated when it is added for existing data.  This attribute is included for purposes of replication only.  It is not used as a unique identifier for relationships between feature classes/tables.</attrdef>
+				<attrdefs>Esri</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>sma_code</attrlabl>
+				<attrdef>Surface Agency Management entity at any level of the government, including state, federal, local.</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>STATE_GEOG</attrlabl>
+				<attrdef>An alphabetic abbreviation that represents each of the 50 states of the United States, the District of Columbia, the outlying areas of the United States, and associated areas. FIPS PUB 5-2</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>Label</attrlabl>
+				<attrdef>Label for Map Display</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>NCA_NAME</attrlabl>
+				<attrdef>National Landscape Conservation Place Name</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>DESCRIPTION</attrlabl>
+				<attrdef>Description of NLCS National Monument or National Conservation Areas</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>WEBLINK</attrlabl>
+				<attrdef>The hyper link for the site if one exists</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>PHOTO_TEXT</attrlabl>
+				<attrdef>The description of the photo of the site</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>PHOTO_BLOB</attrlabl>
+				<attrdef>The description of the photo of the site</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>created_user</attrlabl>
+				<attrdef>ESRI generated field for tracking edits</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>created_date</attrlabl>
+				<attrdef>ESRI generated field for tracking edits</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>last_edited_user</attrlabl>
+				<attrdef> ESRI generated field for tracking edits</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>last_edited_date</attrlabl>
+				<attrdef>ESRI generated field for tracking edits</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>PHOTO_LINK</attrlabl>
+				<attrdef>The link to the full size photo</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>PHOTO_THUMB</attrlabl>
+				<attrdef>The thumbnail size image that will display in the map, but will link through to the full size image when clicked on.</attrdef>
+			</attr>
+		</detailed>
+		<overview>
+			<eaover>See the BLM NLCS National Monuments and Conservation Areas Data Dictionary contained in Zipped Folder</eaover>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntpos>NOC Data Management Lead</cntpos>
+				<cntaddr>
+					<addrtype>physical address</addrtype>
+					<address>Bldg 50, Denver Federal Center</address>
+					<city>Denver</city>
+					<state>CO</state>
+					<postal>80225</postal>
+					<country>United States</country>
+				</cntaddr>
+				<cntvoice>(303)236-6806</cntvoice>
+				<cntemail>jcvarner@blm.gov</cntemail>
+				<cntperp>
+					<cntper>NOC Data Management Lead</cntper>
+					<cntorg>BLM National Operations Center, OC530</cntorg>
+				</cntperp>
+				<cntfax>(303)236-3508</cntfax>
+			</cntinfo>
+		</distrib>
+		<distliab>The BLM assumes no responsibility for errors or omissions. No warranty is made by the BLM as to the accuracy, reliability, or completeness of these data for individual use or aggregate use with other data; nor shall the act of distribution to contractors, partners, or beyond, constitute any such warranty for individual or aggregate data use with other data. Although these data have been processed successfully on computers of BLM, no warranty, expressed or implied, is made by BLM regarding the use of these data on any other system, or for general or scientific purposes, nor does the fact of distribution constitute or imply any such warranty. In no event shall the BLM have any liability whatsoever for payment of any consequential, incidental, indirect, special, or tort damages of any kind, including, but not limited to, any loss of profits arising out of the use or reliance on the geographic data or arising out of the delivery, installation, operation, or support by BLM. </distliab>
+		<resdesc>Downloadable Data</resdesc>
+		<availabl>
+			<timeinfo>
+				<sngdate>
+					<caldate>Present</caldate>
+				</sngdate>
+			</timeinfo>
+		</availabl>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI file geodatabase (gdb)</formname>
+					<formvern>10.4</formvern>
+				</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20190614</metd>
+		<metc>
+			<cntinfo>
+				<cntpos>NOC Data Management Lead</cntpos>
+				<cntaddr>
+					<addrtype>physical address</addrtype>
+					<address>Bldg 50, Denver Federal Center</address>
+					<city>Denver</city>
+					<state>CO</state>
+					<postal>80225</postal>
+					<country>United States</country>
+				</cntaddr>
+				<cntvoice>(303)236-6806</cntvoice>
+				<cntemail>jcvarner@blm.gov</cntemail>
+				<cntperp>
+					<cntper>NOC Data Management Lead</cntper>
+					<cntorg>BLM National Operations Center, OC530</cntorg>
+				</cntperp>
+				<cntfax>(303)236-3508</cntfax>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metrd>20160909</metrd>
+		<metsi>
+			<metsc>Unclassified</metsc>
+		</metsi>
+	</metainfo>
+	<Binary>
+		<Thumbnail>
+			<Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiu
+ZufHOl2WptZXcN5AVJBleL5eM84zkjjqBUTqQgrydjSnRnVdoK501FQWd5b6haR3VrKJYJBlXHft
+U9WnfVENNOzCiiigQUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFMkijl
+x5kaPjpuUHFPooARVCjCgAegFLRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRR
+QAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFA
+BRRRQAUUUUAFFFFABRRRQAUUUUAFFFUbCbUZZroX1rFBGr4gKSbi6+p9O35+1JvWw0rpsvUUUUxB
+RRWXqniCw0eaOO9aVN4yGWJmX2GQOpweKUpKKu3YqMJTdoq7NSiq9jewajYw3duxaGVdykjBqxQm
+mroTTTswooopiCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKiuLiG1hMs8gjjBALN0
+BJAH6kVDHqCyapLYC3uA0cYkMrJiNs9g3c0roaTepborJ1TUbqO7trPTBay3DyDz1kk+aKP+9tBB
+/H/GpL2HVzqdtNZXVutmMCeCWPkjPLBh3x0HSp5+yLVPa7tc0qKzBDqy+ITMbiJ9LaIqIcbWRuOf
+9rv3HXp66dUncmUbW1uMjVkLLhBGMbAoxge9PoopkhRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRR
+RQAUUUUAFFFFAGT4mtbi70C5jtpRG6jzDlS28L823jnnHapbHW7DUbk29tNvcRLMOOGVu49cdD6H
+itGsu6uIdM1GxH2WJYbhjB5ypgoxOVB9mOfxIqHdO5pFpx5ba9Au9BtLvV4NULTRXcI2h4m27h6H
+jnritSisHxgkEnh91uZ54IvNj3SQrkr8w5IyOP8A61ErQi5JeY43qSjCT8jepk0yQRNLIcKoycDJ
+/Adz7VyQ17WLvWNR0q2g8krC32OSSE5cjjeWJxg4ODjuKrR+EtfvLWBr7XXWVZ/PMTL5gVuMHOcH
+GOB0rN1m/gjc1jh4r+JNR+9/kdVpus2Gq27zWtwrCMZkVuGj6/eB6dD+VXY5EmiSWJ1eN1DKynIY
+HoQao21s2nac5kkglutn7ydkEQlbnBbH196fpE11caXBLe2y21wQQ0K9FwSB+gFaRb0UtzGcVq47
+f16fkXaKKKszCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKa6LJGyMMqwIIz2p1FAFG
+x0m106WV7bzR5oUMrSsw4GB1J5x3rn/EOn65qOtiPT7iW1QW/wAkodvKbOdwbHRumD6V11FZzpRl
+Hl2XkbU68oT59356mTcXEfh7w/Gs92uYkWGOaZSQXxhdwHOPWrbX8Ftpq3lzcxeUFUvMnKEnAyOv
+GTViWKOeMxyxpIh6q6gg/hWbb6N9gvoXsJzb2Sqwks1XKMx/iB7H/CnaSemwrxktd/6+78vQmjsF
+hvrmaa8lmS62gW8zAomM8KKtQTeehbypI8My4kGCcHGfoeoqlqmh2erzWkt15u61YvHsfbycdfyF
+aVOKab7EyaaTvqFFFFUQFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRR
+RQAUUUUAFFFFABRRRQAUUUUAFI7rGpZ2CqOpJwBS0hAYEEAg9jQAtFFFABRRRQAUUUUAFFFFABRR
+RQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQB//9k=</Data>
+		</Thumbnail>
+	</Binary>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>1.1174939588422299e-007</latres>
+				<longres>1.1174939588422299e-007</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<cordsysn>
+				<geogcsn>GCS_North_American_1983</geogcsn>
+			</cordsysn>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.0</semiaxis>
+				<denflat>298.257222101</denflat>
+			</geodetic>
+		</horizsys>
+		<vertdef>
+			<altsys>
+				<altres>0.000100</altres>
+				<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+</metadata>
